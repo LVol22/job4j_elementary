@@ -39,5 +39,4 @@ public class MaxTest {
         int expected = 5;
         Assert.assertEquals(result, expected);
     }
-
 }

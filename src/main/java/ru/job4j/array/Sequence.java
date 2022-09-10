@@ -1,9 +1,6 @@
 package ru.job4j.array;
 
-import java.util.Arrays;
-
 public class Sequence {
-
     public static void main(String[] args) {
         int[][] array = new int[3][3];
         array[0][0] = 1;
